@@ -9,5 +9,8 @@ Modified esx_idientity visually and practically under  ESX 1.2 framework  and co
 * Add to server.cfg  start esx_identity
 * Enjoy!
 
-Showcase: [Image](https://i.imgur.com/ZMxvyqk.png)
-Download: [GitHub](https://github.com/tavostro/esx_identity)
+**Showcase:** [Image](https://i.imgur.com/ZMxvyqk.png)
+
+**Download:** [GitHub](https://github.com/tavostro/esx_identity)
+
+*Contact: tavO#5849*
