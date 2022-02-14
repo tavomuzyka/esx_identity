@@ -35,7 +35,7 @@ files {
 	'html/index.html',
 	'html/js/script.js',
 	'html/css/style.css',
-	'html/img/fondo.jpg'
+	'html/img/fondo.jpg',
 	'html/img/logo.png'
 }
 
